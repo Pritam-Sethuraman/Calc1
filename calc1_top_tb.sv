@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////
 // Purpose: Testbench for calc1_top.v
-// Author: Pritam, Rishi, Seyf
+// Author: Pritam Sethuraman
 //
 // Revesion 1.3  13/02/2023 Pritam
 // Updated task to check corner cases
